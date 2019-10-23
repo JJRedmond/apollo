@@ -1,0 +1,1824 @@
+hdmap_version: "1"
+hdmap_district: "\320\235\320\276\320\262\321\213\320\271 \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202"
+node {
+  lane_id: "10000074"
+  length: 18.11532632
+  cost: 18.11532632
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489647.3897045526
+          y: 5232264.8878131155
+        }
+        point {
+          x: 489648.46600105718
+          y: 5232264.1024497394
+        }
+        point {
+          x: 489649.57797414443
+          y: 5232263.3781463206
+        }
+        point {
+          x: 489650.91803564131
+          y: 5232262.8212518748
+        }
+        point {
+          x: 489652.42922045517
+          y: 5232262.7463683449
+        }
+        point {
+          x: 489654.31685271347
+          y: 5232263.7187951952
+        }
+        point {
+          x: 489655.15398204717
+          y: 5232265.5132128047
+        }
+        point {
+          x: 489655.36065783235
+          y: 5232267.2820633268
+        }
+        point {
+          x: 489654.36580783821
+          y: 5232269.1997121675
+        }
+        point {
+          x: 489652.59589143062
+          y: 5232270.18966032
+        }
+        point {
+          x: 489650.43485940935
+          y: 5232271.26253171
+        }
+      }
+      s: 0
+      start_position {
+        x: 489647.3897045526
+        y: 5232264.8878131155
+      }
+      length: 18.11532632
+    }
+  }
+  is_virtual: false
+  road_id: "36"
+}
+node {
+  lane_id: "10000070"
+  length: 10.02953999
+  cost: 7.0922394116668848
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489477.47648605867
+          y: 5232087.58564072
+        }
+        point {
+          x: 489486.59095268196
+          y: 5232083.4097591722
+        }
+      }
+      s: 0
+      start_position {
+        x: 489477.47648605867
+        y: 5232087.58564072
+      }
+      length: 10.02953999
+    }
+  }
+  is_virtual: false
+  road_id: "34"
+}
+node {
+  lane_id: "10000054"
+  length: 38.11070969
+  cost: 23.338881618215762
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489555.62962685188
+          y: 5232306.9992869031
+        }
+        point {
+          x: 489590.39168177266
+          y: 5232291.4150672574
+        }
+      }
+      s: 0
+      start_position {
+        x: 489555.62962685188
+        y: 5232306.9992869031
+      }
+      length: 38.11070969
+    }
+  }
+  is_virtual: false
+  road_id: "27"
+}
+node {
+  lane_id: "10000055"
+  length: 27.36556152
+  cost: 19.351148121254834
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489555.62962685188
+          y: 5232306.9992869031
+        }
+        point {
+          x: 489562.09656925115
+          y: 5232303.6828034371
+        }
+        point {
+          x: 489563.57986782293
+          y: 5232301.96653484
+        }
+        point {
+          x: 489564.44961082889
+          y: 5232299.9346261723
+        }
+        point {
+          x: 489565.03767583816
+          y: 5232296.1028858246
+        }
+        point {
+          x: 489564.97792836966
+          y: 5232293.1268910952
+        }
+        point {
+          x: 489564.42708742677
+          y: 5232289.7583588408
+        }
+        point {
+          x: 489562.54065901611
+          y: 5232284.7607773617
+        }
+      }
+      s: 0
+      start_position {
+        x: 489555.62962685188
+        y: 5232306.9992869031
+      }
+      length: 27.36556152
+    }
+  }
+  is_virtual: false
+  road_id: "28"
+}
+node {
+  lane_id: "10000060"
+  length: 38.44482232
+  cost: 23.543491167136519
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489593.61917537166
+          y: 5232298.1650598748
+        }
+        point {
+          x: 489557.01051500387
+          y: 5232309.8540345272
+        }
+      }
+      s: 0
+      start_position {
+        x: 489593.61917537166
+        y: 5232298.1650598748
+      }
+      length: 38.44482232
+    }
+  }
+  is_virtual: false
+  road_id: "31"
+}
+node {
+  lane_id: "10000059"
+  length: 62.88816115
+  left_out {
+    start {
+      s: 0
+    }
+    end {
+      s: 62.88816115
+    }
+  }
+  cost: 38.512516828104381
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489650.43485940935
+          y: 5232271.26253171
+        }
+        point {
+          x: 489593.61917537166
+          y: 5232298.1650598748
+        }
+      }
+      s: 0
+      start_position {
+        x: 489650.43485940935
+        y: 5232271.26253171
+      }
+      length: 62.88816115
+    }
+  }
+  is_virtual: false
+  road_id: "30"
+}
+node {
+  lane_id: "10000053"
+  length: 62.89374611
+  cost: 38.515937040463129
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489590.39168177266
+          y: 5232291.4150672574
+        }
+        point {
+          x: 489647.3897045526
+          y: 5232264.8878131155
+        }
+      }
+      s: 0
+      start_position {
+        x: 489590.39168177266
+        y: 5232291.4150672574
+      }
+      length: 62.89374611
+    }
+  }
+  is_virtual: false
+  road_id: "26"
+}
+node {
+  lane_id: "10000050"
+  length: 47.98250913
+  cost: 47.98250913
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489477.27737020573
+          y: 5232112.6050129812
+        }
+        point {
+          x: 489475.5065130759
+          y: 5232110.5288995346
+        }
+        point {
+          x: 489470.98745518591
+          y: 5232108.7588517433
+        }
+        point {
+          x: 489466.75380742166
+          y: 5232107.0416414384
+        }
+        point {
+          x: 489462.25791850977
+          y: 5232105.5349404747
+        }
+        point {
+          x: 489459.4169868466
+          y: 5232104.7687581778
+        }
+        point {
+          x: 489457.88430643181
+          y: 5232101.7264928324
+        }
+        point {
+          x: 489459.40026529547
+          y: 5232098.7921399632
+        }
+        point {
+          x: 489462.57813990308
+          y: 5232095.8292617593
+        }
+        point {
+          x: 489470.30614163849
+          y: 5232090.82901113
+        }
+        point {
+          x: 489477.47648605867
+          y: 5232087.58564072
+        }
+      }
+      s: 0
+      start_position {
+        x: 489477.27737020573
+        y: 5232112.6050129812
+      }
+      length: 47.98250913
+    }
+  }
+  is_virtual: false
+  road_id: "25"
+}
+node {
+  lane_id: "10000047"
+  length: 41.23129779
+  cost: 41.23129779
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489691.66525548481
+          y: 5232232.8834110871
+        }
+        point {
+          x: 489691.11386793933
+          y: 5232230.0305183595
+        }
+        point {
+          x: 489691.35847735743
+          y: 5232227.0895536384
+        }
+        point {
+          x: 489693.08129159687
+          y: 5232224.2504723985
+        }
+        point {
+          x: 489695.588019256
+          y: 5232222.2035022248
+        }
+        point {
+          x: 489698.33097616839
+          y: 5232221.0851798132
+        }
+        point {
+          x: 489702.68165142817
+          y: 5232220.5597196063
+        }
+        point {
+          x: 489705.54117586766
+          y: 5232221.6227072915
+        }
+        point {
+          x: 489708.54933621845
+          y: 5232223.7289614761
+        }
+        point {
+          x: 489710.1032979486
+          y: 5232226.9157257173
+        }
+        point {
+          x: 489710.31001920515
+          y: 5232229.5880764723
+        }
+        point {
+          x: 489709.76383245154
+          y: 5232232.7551626824
+        }
+        point {
+          x: 489708.73218824272
+          y: 5232235.286311809
+        }
+        point {
+          x: 489706.82273626915
+          y: 5232236.992173193
+        }
+      }
+      s: 0
+      start_position {
+        x: 489691.66525548481
+        y: 5232232.8834110871
+      }
+      length: 41.23129779
+    }
+  }
+  is_virtual: false
+  road_id: "24"
+}
+node {
+  lane_id: "10000046"
+  length: 44.01782699
+  cost: 26.956382118496119
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489647.3897045526
+          y: 5232264.8878131155
+        }
+        point {
+          x: 489686.75173390342
+          y: 5232245.2242452828
+        }
+      }
+      s: 0
+      start_position {
+        x: 489647.3897045526
+        y: 5232264.8878131155
+      }
+      length: 44.01782699
+    }
+  }
+  is_virtual: false
+  road_id: "23"
+}
+node {
+  lane_id: "10000045"
+  length: 44.34911595
+  left_out {
+    start {
+      s: 0
+    }
+    end {
+      s: 44.34911595
+    }
+  }
+  cost: 27.159262460577246
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489690.09629959438
+          y: 5232251.4573242227
+        }
+        point {
+          x: 489650.43485940935
+          y: 5232271.26253171
+        }
+      }
+      s: 0
+      start_position {
+        x: 489690.09629959438
+        y: 5232251.4573242227
+      }
+      length: 44.34911595
+    }
+  }
+  is_virtual: false
+  road_id: "22"
+}
+node {
+  lane_id: "10000002"
+  length: 8.877115027
+  cost: 7.6881146318336109
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489686.75173390342
+          y: 5232245.2242452828
+        }
+        point {
+          x: 489689.60911945417
+          y: 5232242.8999428228
+        }
+        point {
+          x: 489692.18798535696
+          y: 5232238.3957291357
+        }
+      }
+      s: 0
+      start_position {
+        x: 489686.75173390342
+        y: 5232245.2242452828
+      }
+      length: 8.877115027
+    }
+  }
+  is_virtual: false
+  road_id: "1"
+}
+node {
+  lane_id: "10000018"
+  length: 12.17579196
+  cost: 10.544966921924964
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489570.53306799143
+          y: 5232057.1761582065
+        }
+        point {
+          x: 489569.54628113436
+          y: 5232055.5220428919
+        }
+        point {
+          x: 489567.7810288188
+          y: 5232053.1825106721
+        }
+        point {
+          x: 489566.35278994311
+          y: 5232052.2581977509
+        }
+        point {
+          x: 489563.30926121195
+          y: 5232052.4858382335
+        }
+        point {
+          x: 489560.91857466759
+          y: 5232053.4035636736
+        }
+      }
+      s: 0
+      start_position {
+        x: 489570.53306799143
+        y: 5232057.1761582065
+      }
+      length: 12.17579196
+    }
+  }
+  is_virtual: false
+  road_id: "9"
+}
+node {
+  lane_id: "10000010"
+  length: 80.14945371
+  cost: 49.083279401464075
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489560.91857466759
+          y: 5232053.4035636736
+        }
+        point {
+          x: 489488.13119981613
+          y: 5232086.8820969779
+        }
+      }
+      s: 0
+      start_position {
+        x: 489560.91857466759
+        y: 5232053.4035636736
+      }
+      length: 80.14945371
+    }
+  }
+  is_virtual: false
+  road_id: "5"
+}
+node {
+  lane_id: "10000006"
+  length: 21.69820045
+  cost: 18.791944438786828
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489706.82273626915
+          y: 5232236.992173193
+        }
+        point {
+          x: 489704.11438069143
+          y: 5232237.9859641772
+        }
+        point {
+          x: 489701.47590106371
+          y: 5232239.1229941025
+        }
+        point {
+          x: 489699.51511727826
+          y: 5232240.4677702226
+        }
+        point {
+          x: 489697.43497232685
+          y: 5232241.9338884978
+        }
+        point {
+          x: 489694.59575015603
+          y: 5232244.2603780907
+        }
+        point {
+          x: 489692.09982548218
+          y: 5232245.9872713946
+        }
+        point {
+          x: 489688.5767170483
+          y: 5232248.4583172072
+        }
+      }
+      s: 0
+      start_position {
+        x: 489706.82273626915
+        y: 5232236.992173193
+      }
+      length: 21.69820045
+    }
+  }
+  is_virtual: false
+  road_id: "4"
+}
+node {
+  lane_id: "10000072"
+  length: 30.79748587
+  cost: 30.79748587
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489477.47648605867
+          y: 5232087.58564072
+        }
+        point {
+          x: 489480.52535061049
+          y: 5232087.3912858441
+        }
+        point {
+          x: 489482.58248377941
+          y: 5232088.7267556423
+        }
+        point {
+          x: 489483.98121672781
+          y: 5232091.7792676426
+        }
+        point {
+          x: 489483.37289325322
+          y: 5232093.9918661779
+        }
+        point {
+          x: 489481.65573068283
+          y: 5232096.5698393034
+        }
+        point {
+          x: 489479.82674081816
+          y: 5232098.39898635
+        }
+        point {
+          x: 489478.45253061235
+          y: 5232100.1906503625
+        }
+        point {
+          x: 489477.67010671459
+          y: 5232101.5334006473
+        }
+        point {
+          x: 489477.39803585591
+          y: 5232102.5974131338
+        }
+        point {
+          x: 489477.53282818181
+          y: 5232103.9163029781
+        }
+        point {
+          x: 489478.06687173195
+          y: 5232105.4656348582
+        }
+        point {
+          x: 489479.04904243618
+          y: 5232108.3421889776
+        }
+        point {
+          x: 489480.3979682785
+          y: 5232111.0513928384
+        }
+      }
+      s: 0
+      start_position {
+        x: 489477.47648605867
+        y: 5232087.58564072
+      }
+      length: 30.79748587
+    }
+  }
+  is_virtual: false
+  road_id: "35"
+}
+node {
+  lane_id: "10000019"
+  length: 63.31283169
+  cost: 63.31283169
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489559.24134230684
+          y: 5232049.9114456959
+        }
+        point {
+          x: 489562.01715750818
+          y: 5232048.0839839689
+        }
+        point {
+          x: 489567.34400207322
+          y: 5232045.2773941876
+        }
+        point {
+          x: 489572.97081837244
+          y: 5232042.1924511017
+        }
+        point {
+          x: 489577.4735503401
+          y: 5232040.2752655139
+        }
+        point {
+          x: 489581.91273935174
+          y: 5232040.0896227853
+        }
+        point {
+          x: 489585.56735502713
+          y: 5232043.0503856773
+        }
+        point {
+          x: 489586.72268585773
+          y: 5232047.1524313623
+        }
+        point {
+          x: 489585.47223997378
+          y: 5232050.9142118357
+        }
+        point {
+          x: 489581.10840136197
+          y: 5232053.0522978473
+        }
+        point {
+          x: 489577.08667171194
+          y: 5232053.0593941957
+        }
+        point {
+          x: 489574.15247305582
+          y: 5232052.6267155679
+        }
+        point {
+          x: 489571.38354480662
+          y: 5232052.3548871027
+        }
+        point {
+          x: 489567.805703597
+          y: 5232052.1556128571
+        }
+        point {
+          x: 489564.79303738516
+          y: 5232052.28873636
+        }
+        point {
+          x: 489560.91857466759
+          y: 5232053.4035636736
+        }
+      }
+      s: 0
+      start_position {
+        x: 489559.24134230684
+        y: 5232049.9114456959
+      }
+      length: 63.31283169
+    }
+  }
+  is_virtual: false
+  road_id: "10"
+}
+node {
+  lane_id: "10000029"
+  length: 11.40324253
+  cost: 9.875892728503711
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489618.530164485
+          y: 5232158.9835432954
+        }
+        point {
+          x: 489613.26393131848
+          y: 5232148.8742868127
+        }
+      }
+      s: 0
+      start_position {
+        x: 489618.530164485
+        y: 5232158.9835432954
+      }
+      length: 11.40324253
+    }
+  }
+  is_virtual: false
+  road_id: "15"
+}
+node {
+  lane_id: "10000016"
+  length: 30.27454494
+  cost: 21.408192300726672
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489647.3897045526
+          y: 5232264.8878131155
+        }
+        point {
+          x: 489651.38815738569
+          y: 5232263.340523174
+        }
+        point {
+          x: 489653.95502266195
+          y: 5232261.9435486523
+        }
+        point {
+          x: 489655.93500961014
+          y: 5232259.9063747879
+        }
+        point {
+          x: 489657.76855287876
+          y: 5232256.3536252137
+        }
+        point {
+          x: 489658.93012745504
+          y: 5232253.2688049246
+        }
+        point {
+          x: 489659.15224743716
+          y: 5232250.0278232023
+        }
+        point {
+          x: 489658.79506149003
+          y: 5232247.4468653379
+        }
+        point {
+          x: 489658.18879102793
+          y: 5232244.8096666681
+        }
+        point {
+          x: 489656.45251325407
+          y: 5232240.8130870638
+        }
+      }
+      s: 0
+      start_position {
+        x: 489647.3897045526
+        y: 5232264.8878131155
+      }
+      length: 30.27454494
+    }
+  }
+  is_virtual: false
+  road_id: "8"
+}
+node {
+  lane_id: "10000061"
+  length: 34.08870161
+  cost: 24.105316225075882
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489565.69642537762
+          y: 5232283.0193273351
+        }
+        point {
+          x: 489568.17619084404
+          y: 5232288.8826869735
+        }
+        point {
+          x: 489568.68922160275
+          y: 5232293.9827143811
+        }
+        point {
+          x: 489568.95572462078
+          y: 5232299.6166082965
+        }
+        point {
+          x: 489567.34527923336
+          y: 5232303.4723806381
+        }
+        point {
+          x: 489565.61598693539
+          y: 5232306.4526475789
+        }
+        point {
+          x: 489560.9025033401
+          y: 5232308.902535907
+        }
+        point {
+          x: 489557.01051500387
+          y: 5232309.8540345272
+        }
+      }
+      s: 0
+      start_position {
+        x: 489565.69642537762
+        y: 5232283.0193273351
+      }
+      length: 34.08870161
+    }
+  }
+  is_virtual: false
+  road_id: "32"
+}
+node {
+  lane_id: "10000014"
+  length: 41.45323681
+  cost: 29.313037301628274
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489688.5767170483
+          y: 5232248.4583172072
+        }
+        point {
+          x: 489679.85583240259
+          y: 5232253.0299398946
+        }
+        point {
+          x: 489672.72828466765
+          y: 5232256.02627909
+        }
+        point {
+          x: 489666.09496124613
+          y: 5232254.715418769
+        }
+        point {
+          x: 489661.41058245546
+          y: 5232250.0616538543
+        }
+        point {
+          x: 489658.49120471219
+          y: 5232244.635772041
+        }
+        point {
+          x: 489656.45251325407
+          y: 5232240.8130870638
+        }
+      }
+      s: 0
+      start_position {
+        x: 489688.5767170483
+        y: 5232248.4583172072
+      }
+      length: 41.45323681
+    }
+  }
+  is_virtual: false
+  road_id: "7"
+}
+node {
+  lane_id: "10000025"
+  length: 53.80126538
+  cost: 26.901708693787953
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489609.7027285535
+          y: 5232030.7678617388
+        }
+        point {
+          x: 489560.91857466759
+          y: 5232053.4035636736
+        }
+      }
+      s: 0
+      start_position {
+        x: 489609.7027285535
+        y: 5232030.7678617388
+      }
+      length: 53.80126538
+    }
+  }
+  is_virtual: false
+  road_id: "13"
+}
+node {
+  lane_id: "10000004"
+  length: 17.31126473
+  cost: 17.31126473
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489706.82273626915
+          y: 5232236.992173193
+        }
+        point {
+          x: 489703.9027263613
+          y: 5232238.1285814224
+        }
+        point {
+          x: 489701.07629057922
+          y: 5232238.2424187129
+        }
+        point {
+          x: 489697.53604955954
+          y: 5232237.8385187807
+        }
+        point {
+          x: 489694.60859356704
+          y: 5232236.0077352952
+        }
+        point {
+          x: 489692.83205698483
+          y: 5232234.5150065878
+        }
+        point {
+          x: 489691.66525548481
+          y: 5232232.8834110871
+        }
+      }
+      s: 0
+      start_position {
+        x: 489706.82273626915
+        y: 5232236.992173193
+      }
+      length: 17.31126473
+    }
+  }
+  is_virtual: false
+  road_id: "3"
+}
+node {
+  lane_id: "10000044"
+  length: 44.41167556
+  right_out {
+    start {
+      s: 0
+    }
+    end {
+      s: 44.41167556
+    }
+  }
+  cost: 27.197573773689708
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489688.5767170483
+          y: 5232248.4583172072
+        }
+        point {
+          x: 489648.79855047306
+          y: 5232268.1692776307
+        }
+      }
+      s: 0
+      start_position {
+        x: 489688.5767170483
+        y: 5232248.4583172072
+      }
+      length: 44.41167556
+    }
+  }
+  is_virtual: false
+  road_id: "22"
+}
+node {
+  lane_id: "10000003"
+  length: 6.09189129
+  cost: 3.0460674803891412
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489692.18798535696
+          y: 5232238.3957291357
+        }
+        point {
+          x: 489692.58589477692
+          y: 5232237.4337477051
+        }
+        point {
+          x: 489692.98472828005
+          y: 5232236.1339251269
+        }
+        point {
+          x: 489692.98255011893
+          y: 5232234.885922919
+        }
+        point {
+          x: 489692.61304305412
+          y: 5232233.9097225294
+        }
+        point {
+          x: 489691.66525548481
+          y: 5232232.8834110871
+        }
+      }
+      s: 0
+      start_position {
+        x: 489692.18798535696
+        y: 5232238.3957291357
+      }
+      length: 6.09189129
+    }
+  }
+  is_virtual: false
+  road_id: "2"
+}
+node {
+  lane_id: "10000022"
+  length: 53.21253246
+  cost: 26.607330459365038
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489505.01902769192
+          y: 5232323.3664394757
+        }
+        point {
+          x: 489555.62962685188
+          y: 5232306.9992869031
+        }
+      }
+      s: 0
+      start_position {
+        x: 489505.01902769192
+        y: 5232323.3664394757
+      }
+      length: 53.21253246
+    }
+  }
+  is_virtual: false
+  road_id: "11"
+}
+node {
+  lane_id: "10000034"
+  length: 105.4096772
+  cost: 52.706946751381814
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489518.61944845767
+          y: 5232188.7532094931
+        }
+        point {
+          x: 489565.69642537762
+          y: 5232283.0193273351
+        }
+      }
+      s: 0
+      start_position {
+        x: 489518.61944845767
+        y: 5232188.7532094931
+      }
+      length: 105.4096772
+    }
+  }
+  is_virtual: false
+  road_id: "17"
+}
+node {
+  lane_id: "10000066"
+  length: 28.2105584
+  cost: 19.948675044827283
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489565.69642537762
+          y: 5232283.0193273351
+        }
+        point {
+          x: 489569.50286035269
+          y: 5232287.606777153
+        }
+        point {
+          x: 489573.33102193981
+          y: 5232290.3582994966
+        }
+        point {
+          x: 489578.54166072566
+          y: 5232292.15387661
+        }
+        point {
+          x: 489581.86318179109
+          y: 5232292.5669815326
+        }
+        point {
+          x: 489586.42794900772
+          y: 5232292.4611346107
+        }
+        point {
+          x: 489590.39168177266
+          y: 5232291.4150672574
+        }
+      }
+      s: 0
+      start_position {
+        x: 489565.69642537762
+        y: 5232283.0193273351
+      }
+      length: 28.2105584
+    }
+  }
+  is_virtual: false
+  road_id: "33"
+}
+node {
+  lane_id: "10000024"
+  length: 53.5916141
+  cost: 26.79687886084621
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489557.01051500387
+          y: 5232309.8540345272
+        }
+        point {
+          x: 489506.14416329737
+          y: 5232326.6583765205
+        }
+      }
+      s: 0
+      start_position {
+        x: 489557.01051500387
+        y: 5232309.8540345272
+      }
+      length: 53.5916141
+    }
+  }
+  is_virtual: false
+  road_id: "12"
+}
+node {
+  lane_id: "10000037"
+  length: 29.6761192
+  cost: 18.173564295460903
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489488.13119981613
+          y: 5232086.8820969779
+        }
+        point {
+          x: 489481.500348827
+          y: 5232090.4890046
+        }
+        point {
+          x: 489479.86294478993
+          y: 5232091.532111235
+        }
+        point {
+          x: 489478.68323131377
+          y: 5232093.74683943
+        }
+        point {
+          x: 489478.01595297077
+          y: 5232096.8508175761
+        }
+        point {
+          x: 489477.93553208868
+          y: 5232099.2880729772
+        }
+        point {
+          x: 489478.66500296694
+          y: 5232104.755550744
+        }
+        point {
+          x: 489479.83641855756
+          y: 5232108.5052608484
+        }
+        point {
+          x: 489480.3979682785
+          y: 5232111.0513928384
+        }
+      }
+      s: 0
+      start_position {
+        x: 489488.13119981613
+        y: 5232086.8820969779
+      }
+      length: 29.6761192
+    }
+  }
+  is_virtual: false
+  road_id: "19"
+}
+node {
+  lane_id: "10000040"
+  length: 105.5589068
+  cost: 52.781564535914121
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489562.54065901611
+          y: 5232284.7607773617
+        }
+        point {
+          x: 489515.25390124496
+          y: 5232190.4328231318
+        }
+      }
+      s: 0
+      start_position {
+        x: 489562.54065901611
+        y: 5232284.7607773617
+      }
+      length: 105.5589068
+    }
+  }
+  is_virtual: false
+  road_id: "21"
+}
+node {
+  lane_id: "10000030"
+  length: 101.2059222
+  cost: 50.60498517796325
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489613.26393131848
+          y: 5232148.8742868127
+        }
+        point {
+          x: 489570.53306799143
+          y: 5232057.1761582065
+        }
+      }
+      s: 0
+      start_position {
+        x: 489613.26393131848
+        y: 5232148.8742868127
+      }
+      length: 101.2059222
+    }
+  }
+  is_virtual: false
+  road_id: "16"
+}
+node {
+  lane_id: "10000012"
+  length: 80.03325606
+  cost: 49.012120317318846
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489486.59095268196
+          y: 5232083.4097591722
+        }
+        point {
+          x: 489559.24134230684
+          y: 5232049.9114456959
+        }
+      }
+      s: 0
+      start_position {
+        x: 489486.59095268196
+        y: 5232083.4097591722
+      }
+      length: 80.03325606
+    }
+  }
+  is_virtual: false
+  road_id: "6"
+}
+node {
+  lane_id: "10000027"
+  length: 90.22565336
+  cost: 45.114631156978376
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489656.45251325407
+          y: 5232240.8130870638
+        }
+        point {
+          x: 489618.530164485
+          y: 5232158.9835432954
+        }
+      }
+      s: 0
+      start_position {
+        x: 489656.45251325407
+        y: 5232240.8130870638
+      }
+      length: 90.22565336
+    }
+  }
+  is_virtual: false
+  road_id: "14"
+}
+node {
+  lane_id: "10000035"
+  length: 86.62814714
+  cost: 43.315806098292924
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489480.3979682785
+          y: 5232111.0513928384
+        }
+        point {
+          x: 489518.61944845767
+          y: 5232188.7532094931
+        }
+      }
+      s: 0
+      start_position {
+        x: 489480.3979682785
+        y: 5232111.0513928384
+      }
+      length: 86.62814714
+    }
+  }
+  is_virtual: false
+  road_id: "18"
+}
+node {
+  lane_id: "10000056"
+  length: 36.60324561
+  cost: 25.883438459690005
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489592.11062932835
+          y: 5232295.00825123
+        }
+        point {
+          x: 489583.942022901
+          y: 5232297.6820291393
+        }
+        point {
+          x: 489579.61048331921
+          y: 5232297.8630358381
+        }
+        point {
+          x: 489575.36566839111
+          y: 5232297.8705275552
+        }
+        point {
+          x: 489570.69399411371
+          y: 5232296.5752042262
+        }
+        point {
+          x: 489567.32936874189
+          y: 5232293.60949227
+        }
+        point {
+          x: 489565.18404297368
+          y: 5232290.280450399
+        }
+        point {
+          x: 489562.54065901611
+          y: 5232284.7607773617
+        }
+      }
+      s: 0
+      start_position {
+        x: 489592.11062932835
+        y: 5232295.00825123
+      }
+      length: 36.60324561
+    }
+  }
+  is_virtual: false
+  road_id: "29"
+}
+node {
+  lane_id: "10000058"
+  length: 62.74543368
+  right_out {
+    start {
+      s: 0
+    }
+    end {
+      s: 62.74543368
+    }
+  }
+  cost: 38.425110963634964
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489648.79855047306
+          y: 5232268.1692776307
+        }
+        point {
+          x: 489592.11062932835
+          y: 5232295.00825123
+        }
+      }
+      s: 0
+      start_position {
+        x: 489648.79855047306
+        y: 5232268.1692776307
+      }
+      length: 62.74543368
+    }
+  }
+  is_virtual: false
+  road_id: "30"
+}
+node {
+  lane_id: "10000038"
+  length: 86.63352521
+  cost: 43.318495240852172
+  central_curve {
+    segment {
+      line_segment {
+        point {
+          x: 489515.25390124496
+          y: 5232190.4328231318
+        }
+        point {
+          x: 489477.27737020573
+          y: 5232112.6050129812
+        }
+      }
+      s: 0
+      start_position {
+        x: 489515.25390124496
+        y: 5232190.4328231318
+      }
+      length: 86.63352521
+    }
+  }
+  is_virtual: false
+  road_id: "20"
+}
+edge {
+  from_lane_id: "10000074"
+  to_lane_id: "10000059"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000070"
+  to_lane_id: "10000012"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000054"
+  to_lane_id: "10000053"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000055"
+  to_lane_id: "10000040"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000060"
+  to_lane_id: "10000024"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000059"
+  to_lane_id: "10000060"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000059"
+  to_lane_id: "10000058"
+  cost: 35.446361851171261
+  direction_type: LEFT
+}
+edge {
+  from_lane_id: "10000053"
+  to_lane_id: "10000046"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000053"
+  to_lane_id: "10000016"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000053"
+  to_lane_id: "10000074"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000050"
+  to_lane_id: "10000070"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000050"
+  to_lane_id: "10000072"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000047"
+  to_lane_id: "10000004"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000047"
+  to_lane_id: "10000006"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000046"
+  to_lane_id: "10000002"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000045"
+  to_lane_id: "10000059"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000045"
+  to_lane_id: "10000044"
+  cost: 50
+  direction_type: LEFT
+}
+edge {
+  from_lane_id: "10000002"
+  to_lane_id: "10000003"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000018"
+  to_lane_id: "10000010"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000010"
+  to_lane_id: "10000037"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000006"
+  to_lane_id: "10000014"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000006"
+  to_lane_id: "10000044"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000072"
+  to_lane_id: "10000035"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000019"
+  to_lane_id: "10000010"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000029"
+  to_lane_id: "10000030"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000016"
+  to_lane_id: "10000027"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000061"
+  to_lane_id: "10000024"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000014"
+  to_lane_id: "10000027"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000025"
+  to_lane_id: "10000010"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000004"
+  to_lane_id: "10000047"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000044"
+  to_lane_id: "10000058"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000044"
+  to_lane_id: "10000045"
+  cost: 50
+  direction_type: RIGHT
+}
+edge {
+  from_lane_id: "10000003"
+  to_lane_id: "10000047"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000022"
+  to_lane_id: "10000055"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000022"
+  to_lane_id: "10000054"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000034"
+  to_lane_id: "10000061"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000034"
+  to_lane_id: "10000066"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000066"
+  to_lane_id: "10000053"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000037"
+  to_lane_id: "10000035"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000040"
+  to_lane_id: "10000038"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000030"
+  to_lane_id: "10000018"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000012"
+  to_lane_id: "10000019"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000027"
+  to_lane_id: "10000029"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000035"
+  to_lane_id: "10000034"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000056"
+  to_lane_id: "10000040"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000058"
+  to_lane_id: "10000056"
+  cost: 0
+  direction_type: FORWARD
+}
+edge {
+  from_lane_id: "10000058"
+  to_lane_id: "10000059"
+  cost: 35.567375728826917
+  direction_type: RIGHT
+}
+edge {
+  from_lane_id: "10000038"
+  to_lane_id: "10000050"
+  cost: 0
+  direction_type: FORWARD
+}

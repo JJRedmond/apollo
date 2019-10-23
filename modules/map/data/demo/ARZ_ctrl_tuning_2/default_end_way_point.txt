@@ -1,0 +1,46 @@
+landmark {
+    name: "Circle",
+    waypoint {
+      pose {
+        x: 489652.78
+        y: 5232232.50
+      }
+    }
+    waypoint {
+      pose {
+        x: 489558.69
+        y: 5232269.39
+      }
+    }
+    waypoint {
+      pose {
+        x: 489652.78
+        y: 5232232.50
+      }
+    }
+}
+
+landmark {
+    name: "Closed loop with u-turn",
+    waypoint {
+      pose {
+        x: 489612.74
+        y: 5232280.96
+      }
+    }
+    waypoint {
+      pose {
+        x: 489544.92
+        y: 5232250.29
+      }
+    }
+    waypoint {
+      pose {
+        x: 489612.74
+        y: 5232280.96
+      }
+    }
+}
+
+
+
